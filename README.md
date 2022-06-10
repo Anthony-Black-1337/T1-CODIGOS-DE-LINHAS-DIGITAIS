@@ -11,3 +11,9 @@ Algumas vezes o Code::Blocks tem problemas na hora de fazer uma build por causa 
 Alguns programas podem requerer versões mais atuais da linguagem C++. Para ajustar:
 
 ![alt text](https://github.com/Anthony-Black-1337/T1-CODIGOS-DE-LINHAS-DIGITAIS/blob/99b29753104a49632198fcb4feaf5b154551040b/T1_CODIGOS_DE_LINHA/img_1.png)
+
+
+Imagem do projeto em execução:
+
+![alt text](https://github.com/Anthony-Black-1337/T1-CODIGOS-DE-LINHAS-DIGITAIS/blob/main/T1_CODIGOS_DE_LINHA/image.png)
+
