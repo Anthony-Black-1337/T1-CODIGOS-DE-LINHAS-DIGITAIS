@@ -7,4 +7,4 @@ https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblo
 
 Algumas vezes o Code::Blocks tem problemas na hora de fazer uma build por causa de arquivos de builds antigas. Procurem usar o comando Rebuild   do Code::Blocks quando isso acontecer.
 Alguns programas podem requerer versões mais atuais da linguagem C++. Para ajustar:
-![alt text](path/to/file)
+![alt text](img_1)
